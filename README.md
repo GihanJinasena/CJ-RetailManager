@@ -1,2 +1,2 @@
 # CJ-RetailManager
-A retail manager by Gihan C Jinasena
+A retail management system built by Gihan C Jinasena
